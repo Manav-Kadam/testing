@@ -1,0 +1,353 @@
+
+p {
+  color: #8f8f8f;
+}
+
+#title {
+  background-color: #fff;
+}
+.blue{background-color: #0093E9;
+background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);}
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  padding-bottom: 7%;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+}
+.symbol
+{
+  width: 40%;
+}
+
+.nav-item {
+  margin: 0;
+  padding: 12px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Montserrat-Light', sans-serif;
+}
+.narrow
+{
+  width: 4%;
+}
+.human
+{
+  border-radius: 30%;
+  width: 60%;
+  background-color: #0093E9;
+  background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+
+}
+
+.side
+{
+  text-align:center;
+}
+#home
+{
+  padding: 2% 10% 8% 10%;
+}
+#about
+  {
+    padding: 12% 15% 10% 15%;
+  }
+  .row
+  {
+    margin: 5% 0 0 ;
+  }
+  .nav-link
+  {
+    position: relative;
+    border-radius: 15%;
+  }
+.nav-link:hover
+{
+  background-color: #ce1212;
+
+}
+.fa-6x
+{
+  color:#0093E9;
+  padding: 4%;
+}
+.card
+{
+  border-color: #0093E9;
+  background-color: 	#ddffbc;
+}
+  h2
+  {
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  font-size: 2rem;
+  line-height: 1.5;
+  text-align: center;
+}
+.emoji
+{
+  width: 80%;
+}
+.second
+{
+  font-size: 1.5rem;
+  padding: 4% 10% 4% 10%;
+}
+.founder
+{
+border-radius: 30%;
+width: 60%;
+padding-left: 4%;
+background-color: #0093E9;
+background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+}
+.found
+{
+  padding-top: 7%;
+}
+.first  {
+  position: relative;
+  border-style: none;
+  border-top-style: none;
+  transform: rotate(90deg);
+  height: 3px;
+  width: 60%;
+  margin: 0;
+background-color: #0093E9;
+left: 45%;
+bottom: 45%;
+}
+
+.navbar-brand
+{
+  font-family: 'Audiowide', cursive;
+}
+.navbar
+{
+  overflow: hidden;
+  transition: 0.4s;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 99
+}
+.insti
+{
+  font-family: 'Audiowide', cursive;
+}
+.you
+{
+  padding: 10% 5% 5% 5%;
+}
+.third
+{
+padding: 0 7% 0 7%;
+}
+.map{
+  padding-top: 10%;
+}
+.box{
+  text-align: center;
+  padding: 2%;
+  line-height: 2;
+}
+.card-body
+{
+  padding: 5%;
+}
+.fix
+{
+  padding-bottom: 13%;
+}
+.row
+{
+  padding:0 0 2% 0;
+}
+.what
+{
+  padding-top: 5%;
+}
+.surv
+{
+  padding: 1% 13% 1% 13%;
+}
+#footer
+{
+line-height: 2;
+background-color: #f3f4ed;
+}
+
+.phone
+{
+  margin: 0;
+  width: 5%;
+}
+.details
+{
+  text-align: left;
+  padding-top: 6%;
+}
+.social
+{
+  margin: 0;;
+  padding: 1%;
+  color: black;
+}
+.bright
+{
+  text-align: left;
+}
+.btn {
+  background: #142ce0;
+  background-image: -webkit-linear-gradient(top, #142ce0, #5aa3d1);
+  background-image: -moz-linear-gradient(top, #142ce0, #5aa3d1);
+  background-image: -ms-linear-gradient(top, #142ce0, #5aa3d1);
+  background-image: -o-linear-gradient(top, #142ce0, #5aa3d1);
+  background-image: linear-gradient(to bottom, #142ce0, #5aa3d1);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #5aa3d1;
+  background-image: -webkit-linear-gradient(top, #5aa3d1, #142ce0);
+  background-image: -moz-linear-gradient(top, #5aa3d1, #142ce0);
+  background-image: -ms-linear-gradient(top, #5aa3d1, #142ce0);
+  background-image: -o-linear-gradient(top, #5aa3d1, #142ce0);
+  background-image: linear-gradient(to bottom, #5aa3d1, #142ce0);
+  text-decoration: none;
+}
+.carousel-item {
+  padding: 7% 15%;
+}
+.ending
+{
+  width: 80%;
+  padding: 8% 0 0 0;
+}
+#testimonials {
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+
+  background-color: #e84545;
+  color: #fff;
+}
+#contact{
+  padding: 0 10% 0 10% ;
+}
+.rev
+{
+  margin: 3% 3% 0 0;
+  width: 10%;
+  border-radius: 100%;
+}
+.testimonial-text
+{
+  color: #fff;
+}
+.negi
+{
+  color: #fff;
+}
+.container-fluid
+{
+  padding: 0;
+}
+.inform
+{
+    width: 100%;
+}
+.finish
+{
+  margin: 0;
+  color: black;
+  text-align: center;
+}
+.expect
+{
+  margin: 0;
+}
+.you
+{
+  color: red;
+}
+.yout
+{
+  padding-top: 10%;
+}
+.come
+{
+  text-align: right;
+}
+#cont
+{
+  background-color: #d5ecc2;
+  color: #fff:
+}
+@media ( max-width:1090px)
+{
+.side
+{
+  text-align: center;
+}
+.first{
+  transform: rotate(0deg);
+  top: 8%;
+  left: 2%;
+  width: 90%
+}
+#home
+{
+  text-align: center;
+}
+.intro
+{
+  text-align: center;
+}
+.third
+{
+  text-align: center;
+}
+.narrow
+{
+  width: 10%;
+}
+.blue
+{
+  text-align: center;
+}
+.nav-link
+{
+  font-weight: bold;
+  font-size: 2rem;
+}
+.found
+{
+  padding-top: 20%;
+}
+.map
+{
+  width: 100%;
+  height: 100%;
+}
+body
+{
+  font-weight: bold;
+  font-size: 1.5rem;
+  padding: 0;
+}
+}
